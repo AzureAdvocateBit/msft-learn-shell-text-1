@@ -29,6 +29,7 @@ You will first analyse NASA data log files to understand their content and creat
 ## Learning objectives
 
 Upon completion of this module the learner will be able to:
+
 1. Perform basic file inspection with commands such as `head`, `tail`, `wc` , `less` and `sort`
 2. Use `cat` to create append, display and concatenate files
 3. Write and use `regex` (regular expressions) for text pattern matching
