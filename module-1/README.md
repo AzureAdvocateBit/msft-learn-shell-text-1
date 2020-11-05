@@ -2,13 +2,20 @@
 
 Please fill out the below info to help us keep your module organized properly.
 
-Module Title:  
-< TITLE >
+**Module Title:  **
 
-Unit Titles:  
+Use the Unix Shell to wrangle log data
+
+**Unit Titles:  **
+
 - Introduction
-- < TITLE >
-- < TITLE >
+- Inspect files in the Unix Shell
+- The cat tool: create, concatenate and append files
+- Introduction to regular expressions
+- Using grep for pattern matching
+- Transform input streams with sed and regex
+- Using pipes and filters for data wrangling
+- Knowledge check
 - Summary
 
 ## Instructions
