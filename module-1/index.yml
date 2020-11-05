@@ -2,7 +2,8 @@
 uid: learn.advocates.wrangle-data-shell
 metadata:
   title: Use the Unix Shell to wrangle log data
-  description: # Add a short description for your module for search engines.
+  description: |
+    You work as a developer at the NASA Keneddy Space Center.
   ms.date:
   author: trallard
   ms.author: shanama # Leave this as shanama unless you want content bugs assigned directly to you
